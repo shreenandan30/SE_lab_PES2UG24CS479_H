@@ -4,7 +4,8 @@ This repository collects my Software Engineering lab submissions. Each lab is st
 
 ## Lab Index
 
+- **[Lab 1 — Software Engineering](Lab%201/README.md)** — Lab 1 submission PDF.
 - **[Lab 5 — Static Code Analysis](Lab%205/README.md)** — Bank Account System; Pylint, Bandit, and Flake8 reports.
 - **[Lab 6 — Code and Branch Coverage](Lab%206/README.md)** — Ride Share Fare; pytest test suites and coverage screenshots.
 
-Labs 1–4 can be added in their own folders as they are ready.
+Labs 2–4 can be added in their own folders as they are ready.
